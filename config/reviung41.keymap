@@ -45,7 +45,7 @@
    &kp ESC   &kp Q       &kp W      &kp E       &kp R       &kp T   &kp Y &kp U        &kp I           &kp O        &kp P    &kp BSPC
    &kp TAB   &kp A       &kp S      &kp D       &kp F       &kp G   &kp H &kp J        &kp K           &kp L        &kp SEMI &kp RET
    &kp LSHFT &hm LCTRL Z &hm LALT X &hm LSHFT C &hm LCTRL V &kp B   &kp N &hm RCTRL M  &hm RSHFT COMMA &hm RALT DOT &kp FSLH &kp SQT
-                        &kp LGUI  &kp LOWER &hm SPACE &kp RAISE  &kp FUNCT
+                        &kp LGUI  &kp LOWER &kp SPACE &kp RAISE  &kp FUNCT
                         >;
                 };
 
