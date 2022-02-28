@@ -56,7 +56,7 @@
 //                       |     |     | RET | ADJ |     |
                         bindings = <
    &kp DEL &kp EXCL &kp AT   &kp HASH &kp DLLR &kp PRCNT      &kp CARET &kp AMPS  &kp ASTRK   &kp LPAR  &kp RPAR  &kp DEL
-   &trans  &trans   &trans   &trans   &trans   &trans         &kp TILDE &kp UNDER &kp KP_PLUS &kp LBRC  &kp RBRC  &kp PIPE
+   &out OUT_BLE  &trans   &trans   &trans   &trans   &trans         &kp TILDE &kp UNDER &kp KP_PLUS &kp LBRC  &kp RBRC  &kp PIPE
    &trans  &trans   &kp LGUI &trans   &trans   &kp CLCK       &kp PSCRN &trans    &trans      &trans    &trans    &trans
                                    &trans    &trans    &kp RET    &mo ADJST    &trans
                         >;
